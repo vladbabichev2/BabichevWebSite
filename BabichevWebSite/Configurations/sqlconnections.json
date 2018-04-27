@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=BABICHEVBORBA\\BORBA;Database=Babichev;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
